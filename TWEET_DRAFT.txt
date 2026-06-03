@@ -1,0 +1,10 @@
+Now I have Hermes Desktop:
+
+EC2 Hermes = always-on Telegram/WhatsApp gateway.
+MacBook Hermes = local desktop worker.
+
+Over Tailscale, I can tell EC2 “check my Mac” and it asks local Hermes directly.
+
+Cloud brain, desktop hands.
+
+https://github.com/durang/hermes-desktop-bridge
